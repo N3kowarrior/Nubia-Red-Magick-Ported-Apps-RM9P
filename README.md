@@ -2,5 +2,4 @@
 Download Apk file from [releases](https://github.com/N3kowarriorCZenchilada/NubiaPortedAppsRedMagick8pro/releases/tag/Mora).
 Or download NubiaRedmagickyiSourceCode.7z and build your self with [Apktool](https://ibotpeaches.github.io/Apktool/). Dont forget to sign the apk file.
 
- (https://img.shields.io/github/downloads/N3kowarriorCZenchilada/Red-Magick-Ported-Apps-RM8p/total?style=flat-square)
 Contact me on discord if files get taken down. N3kowarrior#6594
