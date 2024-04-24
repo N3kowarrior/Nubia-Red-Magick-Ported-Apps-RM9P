@@ -6,4 +6,3 @@ Contact me on discord if files get taken down. N3kowarrior#6594
 
 [![Downloads](https://img.shields.io/github/downloads/N3kowarriorCZenchilada/Red-Magick-Ported-Apps-RM8p/total?style=flat-square)](https://github.com/N3kowarriorCZenchilada/Red-Magick-Ported-Apps-RM8p/releases)
 
-I will be working on porting mora from RM 9 pro when eu firmware gets released online.
