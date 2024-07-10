@@ -1,0 +1,4 @@
+Disclaimer
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+As of writting I'm not good with java, or any other programming language. This is my passion project. I must warn users that I won't be supporting any other architecture than icluded in the app themself. I mainly used CHAT-GPT 3.0 and apktool.
+I signed every app with free tool named  "apk signer" which can be found on playstore. Lastly I tried to port every app that was possible for me with my limited skills. I wanted to learn something new, and interesting to me at that time. Reason why I uploaded "finished releases" was for them to work as my proof of work, for possible use in job resume or personal blog.
